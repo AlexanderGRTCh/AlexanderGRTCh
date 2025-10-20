@@ -60,7 +60,7 @@
 
 - [LinkedIn](https://www.linkedin.com/in/alexanderkemos)
 - [Email](mailto:alexanderkemos@gmail.com)
-- [Website](https://www.alexanderkemos@gmail.com)
+- [Website](https://www.alexanderkemos.ca)
 
 ---
 
