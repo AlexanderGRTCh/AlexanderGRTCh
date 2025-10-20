@@ -2,8 +2,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/alexanderkemos) 
 [![Gmail](https://img.shields.io/badge/Email-alexanderkemosca@gmail.com-D14836?logo=gmail&logoColor=white)](mailto:alexanderkemosca@gmail.com)
-[![Website](https://img.shields.io/badge/Website-Visit_My_Site-2E8B57?logo=google-chrome&logoColor=white)](https://www.alexanderkemos.ca)
-
+[![Website](https://img.shields.io/badge/Website-alexanderkemos.ca-1E90FF?logo=internet-explorer&logoColor=white)](https://www.alexanderkemos.ca)
 
 
 ---
@@ -61,6 +60,7 @@
 
 - [LinkedIn](https://www.linkedin.com/in/alexanderkemos)
 - [Email](mailto:alexanderkemos@gmail.com)
+- [Website](mailto:alexanderkemos@gmail.com)
 
 ---
 
